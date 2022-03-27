@@ -1,0 +1,59 @@
+{
+    "name": "samuelnitsche/laravel-auth-log",
+    "description": "Laravel Auth Log provides authentication logger and notification for Laravel.",
+    "keywords": [
+        "laravel",
+        "authentication",
+        "log",
+        "notification"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Samuel Nitsche",
+            "email": "mail@samynitsche.de"
+        }
+    ],
+    "require": {
+        "php": "^7.3|^8.0",
+        "laravel/framework" : "~5.8.0|^6.0|^7.0|^8.0",
+        "jenssegers/agent": "^2.6"
+    },
+    "require-dev": {
+        "phpunit/phpunit" : "^8.5|^9.5",
+        "mockery/mockery": "^1.4",
+        "orchestra/testbench" : "~3.8.0|^4.0|^5.0|^6.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "SamuelNitsche\\AuthLog\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "SamuelNitsche\\AuthLog\\Tests\\": "tests/"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        },
+        "laravel": {
+            "providers": [
+                "SamuelNitsche\\AuthLog\\AuthLogServiceProvider"
+            ]
+        }
+    },
+    "suggest": {
+        "guzzlehttp/guzzle": "Required to use the Slack transport (~6.0)",
+        "nexmo/client": "Required to use the Nexmo transport (~1.0)."
+    },
+    "scripts": {
+        "test": "vendor/bin/phpunit"
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "prefer-stable": true,
+    "minimum-stability": "dev"
+}

@@ -1,0 +1,27 @@
+{
+    "name": "worldpay/worldpay-lib-php",
+    "type": "library",
+    "description": "Worldpay PHP Library",
+    "keywords": [
+    	"worldpay",
+    	"payments",
+    	"api",
+        "uiisthebest"
+    ],
+    "authors": [
+	    {
+	      "name": "Worldpay",
+	      "homepage": "https://online.worldpay.com"
+	    }
+	],
+    "homepage": "https://online.worldpay.com",
+    "license": "MIT",
+    "version": "2.1.2",
+    "autoload": {
+        "psr-4": {"Worldpay\\": "lib/"}
+    },
+    "require": {
+        "php": ">=5.3.0",
+        "ext-curl": "*"
+    }
+}

@@ -1,0 +1,27 @@
+<?php
+
+return array (
+  'City' => '',
+  'Country' => '',
+  'IndiaApplicable' => '',
+  'Logo' => '',
+  'PaytmMobileNo' => '',
+  'address' => '',
+  'choosePayout' => '',
+  'chooseStoreOwner' => '',
+  'enterPaytmMobileNo' => '',
+  'enterStoreName' => '',
+  'enterpaypalemail' => '',
+  'enterpincode' => '',
+  'mobileno' => '',
+  'paypalemail' => '',
+  'phoneno' => '',
+  'pincode' => '',
+  'preferPayout' => '',
+  'selectStoreLogo' => '',
+  'selectcity' => '',
+  'selectcountry' => '',
+  'selectstate' => '',
+  'storeEmail' => '',
+  'storeOwner' => '',
+);

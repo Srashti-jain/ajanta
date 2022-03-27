@@ -1,0 +1,476 @@
+[05-Mar-2022 11:54:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/aamarpay.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/aamarpay.php on line 4
+[05-Mar-2022 11:54:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/debugbar.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/debugbar.php on line 17
+[05-Mar-2022 11:54:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/googletagmanager.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/googletagmanager.php on line 8
+[05-Mar-2022 11:54:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/analytics.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/analytics.php on line 8
+[05-Mar-2022 11:54:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/flare.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/flare.php on line 16
+[05-Mar-2022 11:54:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/analytics.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/analytics.php on line 8
+[05-Mar-2022 11:54:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/analytics.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/analytics.php on line 8
+[05-Mar-2022 11:54:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/analytics.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/analytics.php on line 8
+[05-Mar-2022 11:54:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/flare.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/flare.php on line 16
+[05-Mar-2022 11:54:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/aamarpay.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/aamarpay.php on line 4
+[05-Mar-2022 11:54:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/flare.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/flare.php on line 16
+[05-Mar-2022 11:54:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/analytics.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/analytics.php on line 8
+[05-Mar-2022 11:54:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/analytics.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/analytics.php on line 8
+[05-Mar-2022 11:54:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/app.php on line 16
+[05-Mar-2022 11:54:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/aamarpay.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/aamarpay.php on line 4
+[05-Mar-2022 11:54:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/analytics.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/analytics.php on line 8
+[05-Mar-2022 11:54:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/aamarpay.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/aamarpay.php on line 4
+[05-Mar-2022 11:54:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/analytics.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/analytics.php on line 8
+[05-Mar-2022 11:54:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/broadcasting.php on line 18
+[05-Mar-2022 11:54:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/debugbar.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/debugbar.php on line 17
+[05-Mar-2022 11:54:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/flare.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/flare.php on line 16
+[05-Mar-2022 11:54:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/logging.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/logging.php on line 18
+[05-Mar-2022 11:54:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/debugbar.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/debugbar.php on line 17
+[05-Mar-2022 11:54:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/currency.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/currency.php on line 28
+[05-Mar-2022 11:54:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/auth-log.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/auth-log.php on line 14
+[05-Mar-2022 11:54:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_path() in /home/cloudtecnico/oweg.in/config/laravel_google_translate.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/laravel_google_translate.php on line 4
+[05-Mar-2022 11:54:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/no-captcha.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/no-captcha.php on line 10
+[05-Mar-2022 11:54:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/no-captcha.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/no-captcha.php on line 10
+[05-Mar-2022 11:54:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/flare.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/flare.php on line 16
+[05-Mar-2022 11:54:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/logging.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/logging.php on line 18
+[05-Mar-2022 11:54:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/auth-log.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/auth-log.php on line 14
+[05-Mar-2022 11:54:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/hashing.php on line 32
+[05-Mar-2022 11:54:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/currency.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/currency.php on line 28
+[05-Mar-2022 11:54:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/eloquent-viewable.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/eloquent-viewable.php on line 19
+[05-Mar-2022 11:54:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/facebook-pixel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/facebook-pixel.php on line 8
+[05-Mar-2022 11:54:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/filesystems.php on line 16
+[05-Mar-2022 11:54:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function public_path() in /home/cloudtecnico/oweg.in/config/midia.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/midia.php on line 4
+[05-Mar-2022 11:54:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/broadcasting.php on line 18
+[05-Mar-2022 11:54:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/hashing.php on line 32
+[05-Mar-2022 11:54:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/eloquent-viewable.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/eloquent-viewable.php on line 19
+[05-Mar-2022 11:54:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function public_path() in /home/cloudtecnico/oweg.in/config/midia.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/midia.php on line 4
+[05-Mar-2022 11:54:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/datatables.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/datatables.php on line 73
+[05-Mar-2022 11:54:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/mail.php on line 19
+[05-Mar-2022 11:54:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/filesystems.php on line 16
+[05-Mar-2022 11:54:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/googletagmanager.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/googletagmanager.php on line 8
+[05-Mar-2022 11:54:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/datatables.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/datatables.php on line 73
+[05-Mar-2022 11:54:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_path() in /home/cloudtecnico/oweg.in/config/modules.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/modules.php on line 29
+[05-Mar-2022 11:54:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/services.php on line 18
+[05-Mar-2022 11:54:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/auth-log.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/auth-log.php on line 14
+[05-Mar-2022 11:54:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home/cloudtecnico/oweg.in/config/cache.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/cache.php on line 49
+[05-Mar-2022 11:54:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/filesystems.php on line 16
+[05-Mar-2022 11:54:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/rave.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/rave.php on line 18
+[05-Mar-2022 11:54:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/laravelpwa.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/laravelpwa.php on line 5
+[05-Mar-2022 11:54:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/broadcasting.php on line 18
+[05-Mar-2022 11:54:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/rave.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/rave.php on line 18
+[05-Mar-2022 11:54:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/queue.php on line 16
+[05-Mar-2022 11:54:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/google2fa.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/google2fa.php on line 8
+[05-Mar-2022 11:54:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function app_path() in /home/cloudtecnico/oweg.in/config/maileclipse.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/maileclipse.php on line 23
+[05-Mar-2022 11:54:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/queue.php on line 16
+[05-Mar-2022 11:54:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/paypal.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/paypal.php on line 3
+[05-Mar-2022 11:54:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/queue.php on line 16
+[05-Mar-2022 11:54:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home/cloudtecnico/oweg.in/config/geoip.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/geoip.php on line 56
+[05-Mar-2022 11:54:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/mail.php on line 19
+[05-Mar-2022 11:54:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/payu.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/payu.php on line 9
+[05-Mar-2022 11:54:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/newsletter.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/newsletter.php on line 9
+[05-Mar-2022 11:54:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/datatables.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/datatables.php on line 73
+[05-Mar-2022 11:54:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/aamarpay.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/aamarpay.php on line 4
+[05-Mar-2022 11:54:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/payu.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/payu.php on line 9
+[05-Mar-2022 11:54:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function app_path() in /home/cloudtecnico/oweg.in/config/maileclipse.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/maileclipse.php on line 23
+[05-Mar-2022 11:54:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/sslcommerz.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/sslcommerz.php on line 6
+[05-Mar-2022 11:54:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/payu.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/payu.php on line 9
+[05-Mar-2022 11:54:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home/cloudtecnico/oweg.in/config/purifier.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/purifier.php on line 22
+[05-Mar-2022 11:54:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/rave.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/rave.php on line 18
+[05-Mar-2022 11:54:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/auth-log.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/auth-log.php on line 14
+[05-Mar-2022 11:54:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/paypal.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/paypal.php on line 3
+[05-Mar-2022 11:54:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/aamarpay.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/aamarpay.php on line 4
+[05-Mar-2022 11:54:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home/cloudtecnico/oweg.in/config/cache.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/cache.php on line 49
+[05-Mar-2022 11:54:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/datatables.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/datatables.php on line 73
+[05-Mar-2022 11:54:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/googletagmanager.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/googletagmanager.php on line 8
+[05-Mar-2022 11:55:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/analytics.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/analytics.php on line 8
+[05-Mar-2022 11:55:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_path() in /home/cloudtecnico/oweg.in/config/dotenv-editor.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/dotenv-editor.php on line 25
+[05-Mar-2022 11:55:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_path() in /home/cloudtecnico/oweg.in/config/dotenv-editor.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/dotenv-editor.php on line 25
+[05-Mar-2022 11:55:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/laravelpwa.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/laravelpwa.php on line 5
+[05-Mar-2022 11:55:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_path() in /home/cloudtecnico/oweg.in/config/dotenv-editor.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/dotenv-editor.php on line 25
+[05-Mar-2022 11:55:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/google2fa.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/google2fa.php on line 8
+[05-Mar-2022 11:55:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/analytics.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/analytics.php on line 8
+[05-Mar-2022 11:55:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/paypal.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/paypal.php on line 3
+[05-Mar-2022 11:55:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/sslcommerz.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/sslcommerz.php on line 6
+[05-Mar-2022 11:55:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/laravelpwa.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/laravelpwa.php on line 5
+[05-Mar-2022 11:55:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/newsletter.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/newsletter.php on line 9
+[05-Mar-2022 11:55:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_path() in /home/cloudtecnico/oweg.in/config/laravel_google_translate.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/laravel_google_translate.php on line 4
+[05-Mar-2022 11:55:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/currency.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/currency.php on line 28
+[05-Mar-2022 11:55:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/currency.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/currency.php on line 28
+[05-Mar-2022 11:55:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/mail.php on line 19
+[05-Mar-2022 11:55:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/logging.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/logging.php on line 18
+[05-Mar-2022 11:55:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/no-captcha.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/no-captcha.php on line 10
+[05-Mar-2022 11:55:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/eloquent-viewable.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/eloquent-viewable.php on line 19
+[05-Mar-2022 11:55:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/filesystems.php on line 16
+[05-Mar-2022 11:55:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/broadcasting.php on line 18
+[05-Mar-2022 11:55:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function public_path() in /home/cloudtecnico/oweg.in/config/midia.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/midia.php on line 4
+[05-Mar-2022 11:55:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/debugbar.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/debugbar.php on line 17
+[05-Mar-2022 11:55:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/debugbar.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/debugbar.php on line 17
+[05-Mar-2022 11:55:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home/cloudtecnico/oweg.in/config/cache.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/cache.php on line 49
+[05-Mar-2022 11:55:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_path() in /home/cloudtecnico/oweg.in/config/modules.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/modules.php on line 29
+[05-Mar-2022 11:55:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/paystack.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/paystack.php on line 18
+[05-Mar-2022 11:55:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home/cloudtecnico/oweg.in/config/geoip.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/geoip.php on line 56
+[05-Mar-2022 11:55:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home/cloudtecnico/oweg.in/config/cache.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/cache.php on line 49
+[05-Mar-2022 11:55:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function app_path() in /home/cloudtecnico/oweg.in/config/maileclipse.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/maileclipse.php on line 23
+[05-Mar-2022 11:55:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home/cloudtecnico/oweg.in/config/geoip.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/geoip.php on line 56
+[05-Mar-2022 11:55:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/queue.php on line 16
+[05-Mar-2022 11:55:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/payu.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/payu.php on line 9
+[05-Mar-2022 11:55:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/services.php on line 18
+[05-Mar-2022 11:55:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/database.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/database.php on line 16
+[05-Mar-2022 11:55:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/laravelpwa.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/laravelpwa.php on line 5
+[05-Mar-2022 11:55:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/google2fa.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/google2fa.php on line 8
+[05-Mar-2022 11:55:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_path() in /home/cloudtecnico/oweg.in/config/dotenv-editor.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/dotenv-editor.php on line 25
+[05-Mar-2022 11:55:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home/cloudtecnico/oweg.in/config/purifier.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/purifier.php on line 22
+[05-Mar-2022 11:55:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/sslcommerz.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/sslcommerz.php on line 6
+[05-Mar-2022 11:55:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cloudtecnico/oweg.in/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/config/app.php on line 16

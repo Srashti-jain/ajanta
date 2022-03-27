@@ -1,0 +1,10 @@
+{
+    "show_logo": 1,
+    "show_qr": 1,
+    "show_vat": 1,
+    "print_mode": "portrait",
+    "border_radius": "2",
+    "border_color": "#141EE3",
+    "border_style": "dashed",
+    "date_format": "d M, Y"
+}

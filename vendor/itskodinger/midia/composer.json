@@ -1,0 +1,55 @@
+{
+    "name": "itskodinger/midia",
+    "description": "Simple Media manager for your Laravel project",
+    "type": "library",
+    "license": "MIT",
+    "keywords": [
+        "laravel",
+        "filemanager",
+        "dropzone",
+        "upload",
+        "file",
+        "manager",
+        "image",
+        "ckeditor",
+        "tinymce",
+        "summernote"
+    ],
+    "authors": [
+        {
+            "name": "Muhamad Nauval Azhar",
+            "email": "nauvalazhar2@gmail.com"
+        },
+        {
+            "name": "Multinity",
+            "email": "hi@multinity.com"
+        },
+        {
+            "name": "Kodinger",
+            "email": "itskodinger@gmail.com"
+        },
+        {
+            "name": "Rizal Fakhri",
+            "email": "rizal@codehub.id"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.0",
+        "intervention/image": "2.*"
+    },
+    "autoload": {
+        "classmap": [
+            "src"
+        ],
+        "psr-4": {
+            "Itskodinger\\Midia\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Itskodinger\\Midia\\MidiaServiceProvider"
+            ]
+        }
+    }
+}

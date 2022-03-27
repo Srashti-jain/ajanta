@@ -1,0 +1,339 @@
+/*@nkit 2020*/
+
+.cb-round {
+    border-radius: 50% !important;
+}
+
+.vertical-menu {
+    background: #ffffff;
+    padding: 20px;
+}
+
+body {
+    background-color: #f2f3f7;
+}
+
+.vertical-menu>li.active {
+    background: #FFF;
+}
+
+.vertical-menu {
+    height: calc(113vh - 100px);
+}
+
+.vertical-menu-icon {
+    background: #333;
+}
+
+.vertical-menu-detail {
+    border-right: none;
+}
+
+.card {
+    border-radius: 5px;
+}
+
+.vertical-menu-detail {
+    background: #ffffff;
+}
+
+
+.profilechoose {
+    height: 250px;
+    object-fit: scale-down;
+}
+
+.profilechoosebanner {
+    height: 380px;
+    width: 100%;
+    object-fit: cover;
+}
+
+
+
+
+.img-square {
+    width: 150px;
+}
+
+.required {
+    color: red;
+}
+
+label {
+    color: black;
+}
+
+.image_store {
+    height: 120px;
+    width: 120px;
+
+}
+
+.img-circle {
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+}
+
+.pro-img {
+    height: 70px;
+    width: 70px;
+    border-radius: 50px;
+}
+
+.height-15 {
+    height: 20px;
+}
+
+.viewproduct-image {
+    height: 100px;
+    width: 100px;
+}
+
+.dotremove {
+    list-style-type: none;
+}
+
+nav ul {
+    display: flex;
+    justify-content: space-between;
+}
+
+.numberCircle {
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    padding: 2px;
+
+    background: #fff;
+    border: 2px solid #666;
+    color: #666;
+    text-align: center;
+
+    font: 20px Arial;
+}
+
+
+.order-img {
+    height: 80px;
+    width: 80px;
+}
+
+
+
+.hide {
+    display: none;
+}
+
+.iconsize {
+    font-size: 60px;
+}
+
+.i-iconsize {
+    font-size: 17px;
+}
+
+.testimonal_image {
+    height: 50px;
+    width: 50px;
+}
+
+.widget_image {
+    height: 2500px;
+    width: 250px;
+}
+
+.pagewidth_image {
+    width: 1000px;
+    height: 90px;
+}
+
+.dashboard_image {
+    height: 70px;
+    width: 70px;
+}
+
+.color-facebook {
+    padding: 20px;
+    color: white;
+    font-size: 20px;
+    background-color: blue;
+    border-radius: 20%;
+}
+
+.color-twitter {
+    padding: 20px;
+    color: white;
+    font-size: 20px;
+    background-color: #80d4ff;
+    border-radius: 20%;
+}
+
+.color-instagram {
+    padding: 20px;
+    color: white;
+    font-size: 20px;
+    background-color: #ff0080;
+    border-radius: 20%;
+}
+
+.product_image {
+    height: 60px;
+    width: 60px;
+}
+
+.color-options ul li {
+    font-size: 14px;
+    display: inline-block;
+    margin-right: 5px;
+    color: #000;
+    top: 5px
+}
+
+.color-options ul li a {
+    color: #000;
+    border-radius: 50%;
+    position: relative
+}
+
+.color {
+    padding: 3px 4px 0;
+    border: solid 1px #9a9a9a;
+    border-radius: 50%;
+    background-color: #fff;
+    position: relative;
+    left: -15px
+}
+
+.color-options img .active {
+    opacity: 0;
+    display: none
+}
+
+.varcolor i {
+    font-size: 19px
+}
+
+.active_icon {
+    height: 100px;
+    width: 100px;
+}
+
+.item_image {
+    height: 60px;
+    width: 60px;
+
+}
+
+.img-adv {
+    height: 100px;
+}
+
+
+
+.text-green {
+    color: green;
+}
+
+
+.pro {
+    height: 30px;
+    width: 40px;
+    border-radius: 50px;
+}
+
+.display-none {
+    display: none;
+}
+
+.img-help {
+    height: 570px;
+    width: 150px;
+}
+
+.user_image {
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+}
+
+.eyeCy {
+    position: relative
+}
+
+.eyeCy .fa-eye {
+    position: absolute;
+    top: 45px;
+    right: 7px;
+    font-size: 15px
+}
+
+.eyeCy .fa-eye-slash {
+    position: absolute;
+    top: 45px;
+    right: 7px;
+    font-size: 15px
+}
+
+
+.logo_img {
+    height: 70px;
+    width: 70px;
+}
+
+/* width */
+::-webkit-scrollbar {
+    width: 5px !important;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px rgba(80, 111, 228, 0.1) !important;
+    border-radius: 10px !important;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: rgba(80, 111, 228, 0.1) !important;
+    border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #506fe4 !important;
+}
+
+.nav-tabs {
+    overflow-x: auto;
+    overflow-y: hidden;
+    display: -webkit-box;
+    display: -moz-box;
+}
+
+.nav-tabs>li {
+    float: none;
+}
+
+#chat-body {
+    scroll-behavior: smooth;
+}
+
+.blink{
+    background-color: rgba(249, 97, 109, 0.1);
+    animation: blinker 2s linear infinite;
+}
+
+.tdtxt {
+    font-size: 25px;
+    font-family: cursive;
+    color: black;
+}
+
+
+@keyframes blinker {
+    50% {
+        background-color: rgba(249, 97, 109, 0);
+    }
+}
+

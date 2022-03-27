@@ -1,0 +1,4 @@
+[05-Mar-2022 11:55:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/cloudtecnico/oweg.in/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/bootstrap/app.php on line 14
